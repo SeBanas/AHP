@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/grid_edit"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5px"
+    android:background="@drawable/rect2"
+    android:elegantTextHeight="false"
+    android:gravity="center"
+    android:inputType="numberSigned"
+    android:paddingTop="2dp"
+    android:text="@+id/label"
+    android:textAlignment="center"
+    android:textSize="18sp"></EditText>
